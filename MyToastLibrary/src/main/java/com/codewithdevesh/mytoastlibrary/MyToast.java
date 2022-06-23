@@ -14,7 +14,6 @@ public class MyToast {
         Toast toast = new Toast(context);
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setText(message);
-        toast.setGravity(Gravity.CENTER_HORIZONTAL|Gravity.BOTTOM,0,0);
         toast.setView(view);
         toast.show();
     }
@@ -24,7 +23,6 @@ public class MyToast {
         Toast toast = new Toast(context);
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setText(message);
-        toast.setGravity(Gravity.CENTER_HORIZONTAL|Gravity.BOTTOM,0,0);
         toast.setView(view);
         toast.show();
     }
@@ -34,7 +32,6 @@ public class MyToast {
         Toast toast = new Toast(context);
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setText(message);
-        toast.setGravity(Gravity.CENTER_HORIZONTAL|Gravity.BOTTOM,0,0);
         toast.setView(view);
         toast.show();
     }
@@ -44,7 +41,6 @@ public class MyToast {
         Toast toast = new Toast(context);
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setText(message);
-        toast.setGravity(Gravity.CENTER_HORIZONTAL|Gravity.BOTTOM,0,0);
         toast.setView(view);
         toast.show();
     }
@@ -54,7 +50,6 @@ public class MyToast {
         Toast toast = new Toast(context);
         toast.setDuration(Toast.LENGTH_LONG);
         toast.setText(message);
-        toast.setGravity(Gravity.CENTER_HORIZONTAL|Gravity.BOTTOM,0,0);
         toast.setView(view);
         toast.show();
     }
